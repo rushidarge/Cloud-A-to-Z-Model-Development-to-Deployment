@@ -1,0 +1,14 @@
+AWS Sagemaker
+
+aws configure
+aws sts get-caller-identity
+
+Data set = https://www.kaggle.com/datasets/jacksondivakarr/phone-classification-dataset?select=excel1.xlsx
+
+Access key : AK################WJ
+Secret access key : lvT#################################9H9
+s3 bucket : mobbucket-sagemaker123
+
+image for git : https://docs.aws.amazon.com/sagemaker/latest/dg/train-model.html
+
+model file : s3://sagemaker-us-east-1-891377385044/custom-training-sagemaker-2024-07-08-14-24-56-687/output/model.tar.gz
